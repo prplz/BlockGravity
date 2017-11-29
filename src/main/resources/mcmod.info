@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "blockgravity",
+    "name": "BlockGravity",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://prplz.io",
+    "authorList": [
+      "prplz"
+    ]
+  }
+]
